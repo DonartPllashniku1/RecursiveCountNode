@@ -28,7 +28,7 @@ namespace BinaryTreeRecrusive
             return r;
         }
         // Krijimi i Pemes
-        //Preorder(Root, Left, Right) : 1 2 4 5 3
+        //Preorder(Rrenje, Majtas, Djathtas)
         public static void Main()
         {
             Pema nyje = krijimiPema(10);
